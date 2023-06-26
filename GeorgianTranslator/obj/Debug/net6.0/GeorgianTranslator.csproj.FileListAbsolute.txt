@@ -1,0 +1,12 @@
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\bin\Debug\net6.0\GeorgianTranslator.deps.json
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\bin\Debug\net6.0\GeorgianTranslator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\bin\Debug\net6.0\GeorgianTranslator.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.AssemblyInfo.cs
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\refint\GeorgianTranslator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\GeorgianTranslator.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\GeorgianTranslator\obj\Debug\net6.0\ref\GeorgianTranslator.dll

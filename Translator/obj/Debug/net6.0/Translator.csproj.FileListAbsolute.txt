@@ -1,0 +1,12 @@
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\bin\Debug\net6.0\Translator.deps.json
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\bin\Debug\net6.0\Translator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\bin\Debug\net6.0\Translator.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.AssemblyInfo.cs
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\refint\Translator.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\Translator.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\Translator\obj\Debug\net6.0\ref\Translator.dll

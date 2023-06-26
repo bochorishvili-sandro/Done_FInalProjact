@@ -1,0 +1,12 @@
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\GIA\source\repos\FanilProjactTeamN2worcks\ATM\obj\Debug\net6.0\ref\ATM.dll
